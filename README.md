@@ -1,14 +1,14 @@
 # synthesizer-lab
 An exploration in swiftui that delves into the physics behind soundwaves.
 
-## Instructions:
+## Instructions
 ### Run the program:
 Download `synthesizer-lab-program.zip` and unzip the file. open this unzipped file with Swift Playgrounds and enjoy! (requires Apple device)
 
 ### View the code 
 Head into `synthesizer-lab-root` for access to all the files on any machine :)
 
-## About:
+## About
 Over April Break, I challenged myself to learn as much SwiftUI as possible over four days. I am very fascinated by the science and mathematics behind sound waves, so I figured that the best way to combine both my interests was by building a Synthesizer Lab!
 
 Through the project, I spent a LOT of time trying to wrap my head around the ways in which SwiftUI deals with gradients, layers, animations, and sound output.
