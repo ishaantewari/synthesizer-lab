@@ -14,4 +14,4 @@ Over April Break, I challenged myself to learn as much SwiftUI as possible over 
 Through the project, I spent a LOT of time trying to wrap my head around the ways in which SwiftUI deals with gradients, layers, animations, and sound output.
 
 ## Credits
-The code in `synthesizer-lab-root/SynthesizerLab/Helpers/PlaySynth` is modified from `pure_tone.swift` by yenrab on Github (I could not wrap my head around AVFoundation for the LIFE of me, so massive thanks to them). Check them out here: https://gist.github.com/yenrab/4076b391b6c50b3d195c42ab8cf3b486. Support for the synthesization multiple wave shapes to interact was added by myself.
+The code in `synthesizer-lab-root/SynthesizerLab/Helpers/PlaySynth` is modified from `pure_tone.swift` by yenrab on Github (I could not wrap my head around AVFoundation for the LIFE of me, so massive thanks to them). Check them out here: https://gist.github.com/yenrab/4076b391b6c50b3d195c42ab8cf3b486. Support for the synthesization of multiple wave shapes was added by myself.
