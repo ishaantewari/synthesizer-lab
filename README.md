@@ -1,5 +1,5 @@
 # synthesizer-lab
-An exploration in swiftui that delves into the physics behind soundwaves.
+An exploration in SwiftUI that delves into the physics behind soundwaves.
 
 ## Instructions
 ### Run the program:
