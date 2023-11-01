@@ -3,7 +3,7 @@ An exploration in SwiftUI that delves into the physics behind soundwaves.
 
 ## Instructions
 ### Run the program:
-Download `synthesizer-lab-program.zip` and unzip the file. open this unzipped file with Swift Playgrounds and enjoy! (requires Apple device)
+Download `synthesizer-lab-program.zip` and unzip the file. Open this unzipped file with Swift Playgrounds and enjoy! (Requires Apple device.)
 
 ### View the code 
 Head into `synthesizer-lab-root` for access to all the files on any machine :)
